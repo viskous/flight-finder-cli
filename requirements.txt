@@ -1,0 +1,5 @@
+pip install python-dotenv
+pip install tabluate
+pip install colorama
+pip install openpyxl
+pip install requests
