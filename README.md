@@ -88,7 +88,7 @@ I could’ve rushed through it, but I really wanted the result to be something I
 
 ```bash
 git clone https://github.com/viskous/trip-nimbus.git
-cd project
+cd trip-nimbus
 ```
 
 2. Install required packages:
